@@ -39,7 +39,8 @@ ws_output_utf8.txt
 test_flow_output*.txt
 *.exe
 .pytest_cache/
-
+venv/
+__pycache__/
 # Graphify (keep graph outputs, ignore cache)
 graphify-out/cache/
 
