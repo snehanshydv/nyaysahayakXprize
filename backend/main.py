@@ -36,6 +36,7 @@ _cors_origins = [
         "http://127.0.0.1:3000,http://127.0.0.1:3001,"
         "https://hiringassistant-ai.vercel.app,"
         "https://nyaysahayak-gold.vercel.app,"
+        "https://nyaysahayakxprize.vercel.app,"
         "https://nyaysahayak.eu.cc,"
         "https://vps-3965724c.vps.ovh.net",
     ).split(",")
